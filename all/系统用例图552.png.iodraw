@@ -259,7 +259,7 @@
         <mxCell id="QDhugJYcgj4epML7OQEz-11" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="680" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QDhugJYcgj4epML7OQEz-12" value="记录删除" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QDhugJYcgj4epML7OQEz-12" value="查询用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="730" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QDhugJYcgj4epML7OQEz-13" value="" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QDhugJYcgj4epML7OQEz-8" target="QDhugJYcgj4epML7OQEz-9" edge="1">
